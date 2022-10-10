@@ -31,27 +31,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/Jarotr_'
-global.sgh = 'github.com/Alpiii22' //github
+global.sgh = 'github.com/Bagas12345678' //github
 global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group whatsapp
 global.sdc = '-' //discord
 global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
-global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pdana = '085892778812' //dana
+global.povo = '085892778812' //ovo
+global.pgopay = '085892778812' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
+global.ppulsa = '085892778812' //indosat
 global.pgdc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group WhatsApp 
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
+global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/Jarotoffc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857-23517757'
-global.nomorown = '15196086971'
-global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.nomorbot = '6285892778812'
+global.nomorown = '18656664755'
+global.namebot = 'CoolXBOT'
+global.nameown = 'CoolXBOT'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['18656664755', 'Bagas ID', true],
+  ['18656664755', 'BAGAS ID', true],
+  ['18656664755', 'Bagas ID', true],
+  ['18656664755', 'BagaS ID', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
